@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">softKeyboard</string>
+    <string name="show_message">Show message</string>
+    <string name="Show">Show</string>
+    <string name="hide">Hide</string>
+
+</resources>
